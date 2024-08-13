@@ -1,0 +1,13 @@
+File
+Edit
+View
+Characters
+Windows
+Output
+Hello World!Line 1
+Line 2
+Line 3
+Line 1
+Line 2
+Line 3
+This is the data to write into the file.
